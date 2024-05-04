@@ -8,8 +8,11 @@ and advanced algorithms using Python. Passionate about collaborating across vari
 technical innovations into real business value, optimizing operations, and decision-making processes while
 eagerly contributing expertise and driving innovation in a growth-oriented environment.
 
-### Mostly Used Languages
-![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazygeniusbilal)
+
+### My Github Stats
+
+![Github Stats(https://github-readme-stats.vercel.app/api?username=Lazygeniusbilal)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazygeniusbilal)
 
 <!--
 **Lazygeniusbilal/Lazygeniusbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
