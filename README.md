@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Bilal Ahmed.
+
+### About Me
+I'm a versatile professional with a unique blend of Data Analytics and Data Science
+expertise, with over a year of hands-on experience. Dedicated to transforming raw data into actionable
+insights and scalable AI solutions. Proficient in leveraging statistical analysis, predictive modeling,
+and advanced algorithms using Python. Passionate about collaborating across various teams to convert
+technical innovations into real business value, optimizing operations, and decision-making processes while
+eagerly contributing expertise and driving innovation in a growth-oriented environment.
+
+### Mostly Used Languages
+![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazygeniusbilal)
 
 <!--
 **Lazygeniusbilal/Lazygeniusbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
