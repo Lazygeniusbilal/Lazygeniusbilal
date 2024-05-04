@@ -1,12 +1,31 @@
-### Hi there 👋 I am Bilal Ahmed.
+# Hi there, I'm Bilal Ahmed! 👋
 
-### About Me
-I'm a versatile professional with a unique blend of Data Analytics and Data Science
-expertise, with over a year of hands-on experience. Dedicated to transforming raw data into actionable
-insights and scalable AI solutions. Proficient in leveraging statistical analysis, predictive modeling,
-and advanced algorithms using Python. Passionate about collaborating across various teams to convert
-technical innovations into real business value, optimizing operations, and decision-making processes while
-eagerly contributing expertise and driving innovation in a growth-oriented environment.
+## About Me
+
+- 🚀 Engineer with a passion for becoming a Machine Learning Engineer/Data Scientist.
+- 💼 Currently pursuing my dream while gaining hands-on experience.
+- 👨‍💻 Over a year of immersive learning and practical application in the field.
+- 💡 Worked with esteemed companies including Athena and Code Creatives.
+- 🎓 Proficient in various domains: Databases (MongoDB, MySQL), SQL, Statistics (Inferential and Descriptive), Linear Algebra, Calculus, Data Intelligence, Natural Language Processing (NLP), Front-End Development, Front-End Design, Predictive Modeling, Machine Learning Algorithms, Predictive Analytics, and Deep Learning.
+
+## Projects
+
+- 🛠️ Embarking on a challenge: "30 Days, 30 End-to-End Machine Learning Projects".
+- 📈 Each project designed to be comprehensive and informative, aiding beginners and seasoned practitioners alike.
+- 🌟 Hoping to create a valuable resource for the community to learn and grow together.
+
+## Get in Touch
+
+- 📫 Reach out to me via email at [bilal.ahmed38980@gmail.com](mailto:bilal.ahmed38980@gmail.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mir-bilal-ahmed).
+
+## Fun Facts
+
+- 🎮 Fun fact: I'm an avid coder and love exploring new programming challenges.
+- 📚 Currently diving into "Hands-On Machine Learning with Scikit-Learn and Keras" and exploring the intricacies of designing machine learning systems.
+
+Thanks for stopping by! Excited to embark on this journey and share my experiences with you all. Let's connect and learn together!
+
 
 
 ### My Github Stats
