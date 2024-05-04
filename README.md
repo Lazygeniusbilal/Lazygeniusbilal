@@ -16,7 +16,7 @@
 
 ## Get in Touch
 
-- 📫 Reach out to me via email at [bilal.ahmed38980@gmail.com](mailto:bilal.ahmed38980@gmail.com).
+- 📫 Reach out to me via email at [bilalahxmd@gmail.com](mailto:bilal.ahmed38980@gmail.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mir-bilal-ahmed).
 
 ## Fun Facts
