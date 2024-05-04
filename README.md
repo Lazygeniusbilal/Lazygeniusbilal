@@ -11,7 +11,7 @@ eagerly contributing expertise and driving innovation in a growth-oriented envir
 
 ### My Github Stats
 
-![Github Stats(https://github-readme-stats.vercel.app/api?username=Lazygeniusbilal)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lazygeniusbilal)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazygeniusbilal)
 
 <!--
