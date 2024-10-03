@@ -1,33 +1,35 @@
-Hi there, I'm Bilal Ahmed! 👋
+# Hi there, I'm Bilal Ahmed! 👋
 
-About Me
-🚀 Engineer with a passion for becoming a Machine Learning Engineer/Data Scientist.
-💼 Currently pursuing my dream while gaining hands-on experience.
-👨‍💻 Over a year of immersive learning and practical application in the field.
-💡 Worked with esteemed companies including Athena and Code Creatives.
+## About Me  
+🚀 Engineer with a passion for becoming a Machine Learning Engineer/Data Scientist.  
+💼 Currently pursuing my dream while gaining hands-on experience.  
+👨‍💻 Over a year of immersive learning and practical application in the field.  
+💡 Worked with esteemed companies including Athena and Code Creatives.  
 
-🎓 Proficient in:
+### Proficient in:  
+- Databases (MongoDB, MySQL), SQL  
+- Statistics (Inferential and Descriptive), Linear Algebra, Calculus  
+- Data Intelligence, Natural Language Processing (NLP)  
+- Front-End Development and Design  
+- Predictive Modeling, Machine Learning Algorithms, Predictive Analytics  
+- Deep Learning  
+- **Computer Vision (proficient)**
 
-Databases (MongoDB, MySQL), SQL
-Statistics (Inferential and Descriptive), Linear Algebra, Calculus
-Data Intelligence, Natural Language Processing (NLP)
-Predictive Modeling, Machine Learning Algorithms, Predictive Analytics
-Deep Learning
-Computer Vision
-🌐 I specialize in building end-to-end machine learning, data science, and deep learning applications from scratch, transforming raw data into valuable insights and deployable solutions.
+🌐 I specialize in building **end-to-end machine learning, data science, and deep learning applications** from scratch, transforming raw data into valuable insights and deployable solutions.
 
-Projects
-🛠️ Embarking on a challenge: "30 Days, 30 End-to-End Machine Learning Projects".
-📈 Each project is designed to be comprehensive and informative, aiding beginners and seasoned practitioners alike.
+## Projects  
+🛠️ Embarking on a challenge: "30 Days, 30 End-to-End Machine Learning Projects".  
+📈 Each project is designed to be comprehensive and informative, aiding beginners and seasoned practitioners alike.  
 🌟 Aiming to create a valuable resource for the community to learn and grow together.
 
-Get in Touch
-📫 Reach out to me via email at bilalahxmd@gmail.com.
-🔗 Connect with me on LinkedIn.
+## Get in Touch  
+📫 Reach out to me via email at [bilalahxmd@gmail.com](mailto:bilalahxmd@gmail.com).  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/).
 
-Fun Facts
-🎮 Fun fact: I'm an avid coder and love exploring new programming challenges.
-📚 Currently reading "Designing Machine Learning Systems" and "Practical Machine Learning with Computer Vision" while continuing to explore advanced concepts in computer vision.
+## Fun Facts  
+🎮 Fun fact: I'm an avid coder and love exploring new programming challenges.  
+📚 Currently reading **"Designing Machine Learning Systems"** and **"Practical Machine Learning with Computer Vision"** while continuing to explore advanced concepts in computer vision.
+
 
 
 
